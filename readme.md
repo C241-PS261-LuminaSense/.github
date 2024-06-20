@@ -1,8 +1,8 @@
 # LuminaSense - Capstone Bangkit 2024
-![LuminaSense Cover]()
+![LuminaSense Cover](https://github.com/C241-PS261-LuminaSense/.github/blob/5127d8dba6f2af03068eb879bd01c9de70d0942d/assets/LuminasSense_banner.png)
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/C241-PS261-LuminaSense/.github/blob/5127d8dba6f2af03068eb879bd01c9de70d0942d/assets/bangkit_banner.png">
 </p>
 
 LuminaSense is an advanced smart lighting and human presence monitoring system designed to enhance energy efficiency and security in modern homes and businesses. Integrating AI and IoT technologies, LuminaSense provides real-time live camera feeds, supports various camera models, and utilizes AI-based human detection to accurately monitor occupancy and optimize lighting. This innovative solution not only reduces energy consumption but also enhances security by preventing unauthorized access, offering a user-friendly interface for seamless management and control.
